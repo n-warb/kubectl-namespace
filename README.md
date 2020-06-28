@@ -4,7 +4,7 @@ This code performs a create if not exist kubernetes namespace
 
 In order to clone the repository, execute the following commmand
 ```shell script
-git clone git@github.com:nw1984/kubectl-namespace.git
+git clone git@github.com:n-warb/kubectl-namespace.git
 ```
 
 ## Usage
