@@ -7,12 +7,12 @@ In order to clone the repository, execute the following commmand
 git clone git@github.com:nw1984/kubectl-namespace.git
 ```
 
-##Usage
+## Usage
 ```shell script
 $ ./namespaceCreate.sh <<new namespace name>>
 ```
 
-##Output
+## Output
 If the namespace already exists:
 ```shell script
 Namespace (<<namespace name>>) already exists
